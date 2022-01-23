@@ -1,0 +1,40 @@
+body{
+	font-family: cursive;
+}
+h1{
+	text-align: center;
+	padding: 20px;
+}
+h2{
+	float: right;
+	margin-top: 0px;
+	margin-right: 0px;
+	padding-right: 20px;
+	padding-left: 20px;
+	border: 2px solid black;
+	border-top: 0px;
+	border-right: 0px;
+}
+#chicken{
+	background-color: #D59898;
+}
+#beef {
+	background-color: #C14543;
+	color: white;	
+}
+#sushi{
+	background-color: #E5D198;
+}
+.txt {
+	float: left;
+	/*width: 300px;*/
+	padding: 10px;
+	padding-top: 0px;
+
+}
+section{
+	border:2px solid black;
+	overflow: hidden;
+	background-color: grey;
+	width: 340px;
+}
